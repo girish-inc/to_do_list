@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd frontend && npm install && chmod +x node_modules/.bin/react-scripts && npm run build",
+  "outputDirectory": "frontend/build",
+  "installCommand": "cd frontend && npm install"
+}
